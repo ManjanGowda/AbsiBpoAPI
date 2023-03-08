@@ -16,3 +16,12 @@ C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Data\obj\Debug\AbsiBpoAPI.Data.csproj.Co
 C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Data\obj\Debug\AbsiBpoAPI.Data.csproj.CopyComplete
 C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Data\obj\Debug\StaticWebAPI.Data.dll
 C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Data\obj\Debug\StaticWebAPI.Data.pdb
+C:\Users\Lenovo\Source\Repos\AbsiBpoAPI\AbsiBpoAPI.Data\bin\Debug\StaticWebAPI.Data.dll
+C:\Users\Lenovo\Source\Repos\AbsiBpoAPI\AbsiBpoAPI.Data\bin\Debug\StaticWebAPI.Data.pdb
+C:\Users\Lenovo\Source\Repos\AbsiBpoAPI\AbsiBpoAPI.Data\bin\Debug\Dapper.dll
+C:\Users\Lenovo\Source\Repos\AbsiBpoAPI\AbsiBpoAPI.Data\bin\Debug\Dapper.xml
+C:\Users\Lenovo\Source\Repos\AbsiBpoAPI\AbsiBpoAPI.Data\obj\Debug\AbsiBpoAPI.Data.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\AbsiBpoAPI\AbsiBpoAPI.Data\obj\Debug\AbsiBpoAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\AbsiBpoAPI\AbsiBpoAPI.Data\obj\Debug\AbsiBpoAPI.Data.csproj.CopyComplete
+C:\Users\Lenovo\Source\Repos\AbsiBpoAPI\AbsiBpoAPI.Data\obj\Debug\StaticWebAPI.Data.dll
+C:\Users\Lenovo\Source\Repos\AbsiBpoAPI\AbsiBpoAPI.Data\obj\Debug\StaticWebAPI.Data.pdb
