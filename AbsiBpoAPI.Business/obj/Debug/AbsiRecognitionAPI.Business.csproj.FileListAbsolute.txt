@@ -1,0 +1,11 @@
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Business\bin\Debug\StaticWebAPI.Business.dll
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Business\bin\Debug\StaticWebAPI.Business.pdb
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Business\bin\Debug\StaticWebAPI.Data.dll
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Business\bin\Debug\Dapper.dll
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Business\bin\Debug\StaticWebAPI.Data.pdb
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Business\bin\Debug\Dapper.xml
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Business\obj\Debug\AbsiRecognitionAPI.Business.csproj.AssemblyReference.cache
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Business\obj\Debug\AbsiRecognitionAPI.Business.csproj.CoreCompileInputs.cache
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Business\obj\Debug\AbsiRecognitionAPI.Business.csproj.CopyComplete
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Business\obj\Debug\StaticWebAPI.Business.dll
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Business\obj\Debug\StaticWebAPI.Business.pdb

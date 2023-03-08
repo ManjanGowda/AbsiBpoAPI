@@ -1,0 +1,9 @@
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Data\bin\Debug\StaticWebAPI.Data.dll
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Data\bin\Debug\StaticWebAPI.Data.pdb
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Data\bin\Debug\Dapper.dll
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Data\bin\Debug\Dapper.xml
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Data\obj\Debug\AbsiRecognitionAPI.Data.csproj.AssemblyReference.cache
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Data\obj\Debug\AbsiRecognitionAPI.Data.csproj.CoreCompileInputs.cache
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Data\obj\Debug\AbsiRecognitionAPI.Data.csproj.CopyComplete
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Data\obj\Debug\StaticWebAPI.Data.dll
+C:\sanath\AbsiRecognition\AbsiRecognitionAPI\AbsiRecognitionAPI.Data\obj\Debug\StaticWebAPI.Data.pdb

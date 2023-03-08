@@ -1,0 +1,11 @@
+C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Business\bin\Release\StaticWebAPI.Business.dll
+C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Business\bin\Release\StaticWebAPI.Business.pdb
+C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Business\bin\Release\StaticWebAPI.Data.dll
+C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Business\bin\Release\Dapper.dll
+C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Business\bin\Release\StaticWebAPI.Data.pdb
+C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Business\bin\Release\Dapper.xml
+C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Business\obj\Release\AbsiBpoAPI.Business.csproj.AssemblyReference.cache
+C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Business\obj\Release\AbsiBpoAPI.Business.csproj.CoreCompileInputs.cache
+C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Business\obj\Release\AbsiBpoAPI.Business.csproj.CopyComplete
+C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Business\obj\Release\StaticWebAPI.Business.dll
+C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Business\obj\Release\StaticWebAPI.Business.pdb
