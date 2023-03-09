@@ -25,3 +25,12 @@ C:\Manjan\AbsiBpo\AbsiBpoAPI\common\obj\Release\common.csproj.CoreCompileInputs.
 C:\Manjan\AbsiBpo\AbsiBpoAPI\common\obj\Release\common.csproj.CopyComplete
 C:\Manjan\AbsiBpo\AbsiBpoAPI\common\obj\Release\common.dll
 C:\Manjan\AbsiBpo\AbsiBpoAPI\common\obj\Release\common.pdb
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\common\bin\Release\common.dll
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\common\bin\Release\common.pdb
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\common\bin\Release\Newtonsoft.Json.dll
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\common\bin\Release\Newtonsoft.Json.xml
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\common\obj\Release\common.csproj.AssemblyReference.cache
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\common\obj\Release\common.csproj.CoreCompileInputs.cache
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\common\obj\Release\common.csproj.CopyComplete
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\common\obj\Release\common.dll
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\common\obj\Release\common.pdb

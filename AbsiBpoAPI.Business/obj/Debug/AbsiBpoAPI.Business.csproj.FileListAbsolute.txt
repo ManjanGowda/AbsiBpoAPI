@@ -18,3 +18,14 @@ C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Business\obj\Debug\AbsiBpoAPI.Business.c
 C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Business\obj\Debug\AbsiBpoAPI.Business.csproj.CopyComplete
 C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Business\obj\Debug\StaticWebAPI.Business.dll
 C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Business\obj\Debug\StaticWebAPI.Business.pdb
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Business\bin\Debug\StaticWebAPI.Business.dll
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Business\bin\Debug\StaticWebAPI.Business.pdb
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Business\bin\Debug\StaticWebAPI.Data.dll
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Business\bin\Debug\Dapper.dll
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Business\bin\Debug\StaticWebAPI.Data.pdb
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Business\bin\Debug\Dapper.xml
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Business\obj\Debug\AbsiBpoAPI.Business.csproj.AssemblyReference.cache
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Business\obj\Debug\AbsiBpoAPI.Business.csproj.CoreCompileInputs.cache
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Business\obj\Debug\AbsiBpoAPI.Business.csproj.CopyComplete
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Business\obj\Debug\StaticWebAPI.Business.dll
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Business\obj\Debug\StaticWebAPI.Business.pdb

@@ -411,8 +411,11 @@ namespace AbsiBpoAPI.Business.Managers
                 var filter = new
                 {
 
-                    Short = IncidentEntity.Short
-                  
+                    Short = IncidentEntity.Short,
+                    ShiftTypeMasterID= IncidentEntity.ShiftTypeMasterID,
+                    StartTime= IncidentEntity.StartTime,
+                    EndTime = IncidentEntity.EndTime,
+
 
 
                 };
@@ -430,8 +433,11 @@ namespace AbsiBpoAPI.Business.Managers
                 var filter = new
                 {
                     ID = IncidentEntity.ID,
-                    Short = IncidentEntity.Short
-                  
+                    Short = IncidentEntity.Short,
+                    ShiftTypeMasterID = IncidentEntity.ShiftTypeMasterID,
+                    StartTime = IncidentEntity.StartTime,
+                    EndTime = IncidentEntity.EndTime
+
 
 
 
@@ -691,7 +697,29 @@ namespace AbsiBpoAPI.Business.Managers
                 throw ex;
             }
         }
+        public IEnumerable<dynamic> GetShiftTypeMaster()
+        {
+            try
+            {
+                return IMasterRrepository.GetShiftTypeMaster<dynamic>();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
 
+        public IEnumerable<dynamic> GetShiftTypeMasterByID(object filter)
+        {
+            try
+            {
+                return IMasterRrepository.GetShiftTypeMasterByID<dynamic>(filter);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
 
     }
 }

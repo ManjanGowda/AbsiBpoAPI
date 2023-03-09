@@ -71,6 +71,7 @@ namespace AbsiBpoAPI.Data.Interface
         Int64 UpdateAssessmentMaterial(object filter);
         Int64 DeleteAssessmentMaterial(object filter);
 
-
+        IEnumerable<T> GetShiftTypeMaster<T>();
+        IEnumerable<T> GetShiftTypeMasterByID<T>(object filter);
     }
 }

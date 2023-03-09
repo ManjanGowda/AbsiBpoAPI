@@ -974,6 +974,51 @@ namespace AbsiBpoAPI.API.Controllers
             return response;
         }
 
+        [HttpGet]
+        [Route("Master/GetShiftTypeMaster")]
+        public HttpResponseMessage GetShiftTypeMaster()
+        {
+            HttpResponseMessage response;
+            try
+            {
+                object res = IMasterManager.GetShiftTypeMaster();
+                response = Request.CreateResponse(HttpStatusCode.OK, res);
+            }
+            catch (Exception ex)
+            {
+                if (log.IsErrorEnabled)
+                {
+                    log.Error(" Error in GetShiftTypeMaster in Master Controller" + ex);
+                }
+                response = Request.CreateErrorResponse(HttpStatusCode.InternalServerError, ex.Message);
+            }
+            return response;
+        }
+
+        [HttpGet]
+        [Route("Master/GetShiftTypeMasterByID")]
+        public HttpResponseMessage GetShiftTypeMasterByID(Int64 ID)
+        {
+            HttpResponseMessage response;
+            try
+            {
+                var j = new
+                {
+                    ID = ID
+                };
+                object res = IMasterManager.GetShiftTypeMasterByID(j);
+                response = Request.CreateResponse(HttpStatusCode.OK, res);
+            }
+            catch (Exception ex)
+            {
+                if (log.IsErrorEnabled)
+                {
+                    log.Error(" Error in GetShiftTypeMasterByID in Master Controller" + ex);
+                }
+                response = Request.CreateErrorResponse(HttpStatusCode.InternalServerError, ex.Message);
+            }
+            return response;
+        }
 
 
     }

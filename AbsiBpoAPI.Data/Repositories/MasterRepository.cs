@@ -666,7 +666,37 @@ namespace AbsiBpoAPI.Data.Repositories
             }
         }
 
+        public IEnumerable<T> GetShiftTypeMaster<T>()
+        {
+            try
+            {
+                db.Open();
+                var res = db.Query<T>("SProc_GetShiftTypeMaster", commandType: CommandType.StoredProcedure);
+                db.Close();
+                return res;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
 
+
+        public IEnumerable<T> GetShiftTypeMasterByID<T>(object filter)
+        {
+            try
+            {
+                db.Open();
+                var res = db.Query<T>("SProc_GetShiftTypeMasterByID", filter, commandType: CommandType.StoredProcedure);
+                db.Close();
+                return res;
+
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
 
     }
 

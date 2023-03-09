@@ -7,3 +7,12 @@ C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Data\obj\Release\AbsiBpoAPI.Data.csproj.
 C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Data\obj\Release\AbsiBpoAPI.Data.csproj.CopyComplete
 C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Data\obj\Release\StaticWebAPI.Data.dll
 C:\Manjan\AbsiBpo\AbsiBpoAPI\AbsiBpoAPI.Data\obj\Release\StaticWebAPI.Data.pdb
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Data\bin\Release\StaticWebAPI.Data.dll
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Data\bin\Release\StaticWebAPI.Data.pdb
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Data\bin\Release\Dapper.dll
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Data\bin\Release\Dapper.xml
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Data\obj\Release\AbsiBpoAPI.Data.csproj.AssemblyReference.cache
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Data\obj\Release\AbsiBpoAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Data\obj\Release\AbsiBpoAPI.Data.csproj.CopyComplete
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Data\obj\Release\StaticWebAPI.Data.dll
+C:\Users\Amaze Inc\source\repos\AbsiBpoAPI\AbsiBpoAPI.Data\obj\Release\StaticWebAPI.Data.pdb

@@ -26,5 +26,8 @@ namespace AbsiBpoAPI.Business.Entities
         public Int64 IncidentMasterID { get; set; }
 
         public string Short { get; set; }
+        public Int64 ShiftTypeMasterID { get; set; }
+        public DateTime StartTime { get; set; }
+        public DateTime EndTime { get; set; }
     }
 }
