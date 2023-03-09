@@ -665,7 +665,21 @@ namespace AbsiBpoAPI.Data.Repositories
                 throw ex;
             }
         }
+        public IEnumerable<T> GetAssessmentByID<T>(object filter)
+        {
+            try
+            {
+                db.Open();
+                var res = db.Query<T>("SProc_GetAssessmentByID", filter, commandType: CommandType.StoredProcedure);
+                db.Close();
+                return res;
 
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
 
 
     }

@@ -71,6 +71,7 @@ namespace AbsiBpoAPI.Data.Interface
         Int64 UpdateAssessmentMaterial(object filter);
         Int64 DeleteAssessmentMaterial(object filter);
 
+        IEnumerable<T> GetAssessmentByID<T>(object filter);
 
     }
 }

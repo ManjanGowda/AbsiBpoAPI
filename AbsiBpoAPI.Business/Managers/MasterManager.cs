@@ -691,6 +691,17 @@ namespace AbsiBpoAPI.Business.Managers
                 throw ex;
             }
         }
+        public IEnumerable<dynamic> GetAssessmentByID(object filter)
+        {
+            try
+            {
+                return IMasterRrepository.GetAssessmentByID<dynamic>(filter);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
 
 
     }

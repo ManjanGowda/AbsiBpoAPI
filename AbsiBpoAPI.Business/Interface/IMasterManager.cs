@@ -74,6 +74,8 @@ namespace AbsiBpoAPI.Business.Interface
         Int64 UpdateAssessmentMaterial(AssessmentEntity AssessmentEntity);
         Int64 DeleteAssessmentMaterial(object filter);
 
+        IEnumerable<dynamic> GetAssessmentByID(object filter);
+
 
     }
 }

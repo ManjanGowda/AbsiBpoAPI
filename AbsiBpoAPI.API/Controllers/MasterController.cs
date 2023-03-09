@@ -975,6 +975,33 @@ namespace AbsiBpoAPI.API.Controllers
         }
 
 
+        [HttpGet]
+        [Route("Master/GetAssessmentByID")]
+        public HttpResponseMessage GetAssessmentByID(Int64 ID)
+        {
+            HttpResponseMessage response;
+            try
+            {
+                var j = new
+                {
+                    ID = ID
+                };
+                object res = IMasterManager.GetAssessmentByID(j);
+                response = Request.CreateResponse(HttpStatusCode.OK, res);
+            }
+            catch (Exception ex)
+            {
+                if (log.IsErrorEnabled)
+                {
+                    log.Error(" Error in GetAssessmentByID in Master Controller" + ex);
+                }
+                response = Request.CreateErrorResponse(HttpStatusCode.InternalServerError, ex.Message);
+            }
+            return response;
+        }
+
+
+
 
     }
 }
